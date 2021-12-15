@@ -7,8 +7,8 @@ Using Keras to train a deep convolutional neural network for classifying  chest 
 
 ## Normal chest x-ray
 
-![NORMAL (1)](https://user-images.githubusercontent.com/60335196/146107883-3cdbb7c6-7242-4d62-95f7-f73915beee7d.png)
+![NORMAL (1)](https://user-images.githubusercontent.com/60335196/146108197-dda4ce21-cafd-498d-9563-5973e82fc21c.png)
 
 ## Viral Pneumonia x-ray
 
-![Viral Pneumonia (1)](https://user-images.githubusercontent.com/60335196/146107916-6650202e-1549-40af-af2b-17995fbe0a79.png)
+![Viral Pneumonia (1)](https://user-images.githubusercontent.com/60335196/146108215-1c588552-147d-4dd8-a415-05015d4680bb.png)
